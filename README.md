@@ -7,6 +7,7 @@ This repo contains steam workshop game references for TTS and assoiceated materi
 [Kittens](https://steamcommunity.com/sharedfiles/filedetails/?id=2743883145)  
 
 ## To Try
+[Poetry for Neanderthals](https://steamcommunity.com/sharedfiles/filedetails/?id=2421379664)  
 [Castle Wars](https://steamcommunity.com/sharedfiles/filedetails/?id=2386624320)  
 [Манчкин](https://steamcommunity.com/sharedfiles/filedetails/?id=2464653113)  
 [Munchkin Fallout 2.0](https://steamcommunity.com/sharedfiles/filedetails/?id=2580437015)  
