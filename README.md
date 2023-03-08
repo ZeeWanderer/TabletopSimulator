@@ -4,7 +4,7 @@ This repo contains steam workshop game references for TTS and assoiceated materi
 [Bang!!!](https://steamcommunity.com/sharedfiles/filedetails/?id=2859496851)   
 [Nemesis](https://steamcommunity.com/sharedfiles/filedetails/?id=1265009992)  
 [Eldritch Horror](https://steamcommunity.com/sharedfiles/filedetails/?id=2153555698) [`Preconfigured`](https://steamcommunity.com/sharedfiles/filedetails/?id=2940677726) [`ENG`](https://steamcommunity.com/sharedfiles/filedetails/?id=2075317062)  
-[Tavern «Red Dragon»](https://steamcommunity.com/sharedfiles/filedetails/?id=922106338)  
+[The Red Dragon Inn](https://steamcommunity.com/sharedfiles/filedetails/?id=922106338)  
 [Kittens](https://steamcommunity.com/sharedfiles/filedetails/?id=2743883145)  
 
 ## To Try
