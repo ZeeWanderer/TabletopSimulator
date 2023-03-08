@@ -15,4 +15,4 @@ This repo contains steam workshop game references for TTS and assoiceated materi
 [Fallout The Board Game](https://steamcommunity.com/sharedfiles/filedetails/?id=2707726066) [`Original`](https://steamcommunity.com/sharedfiles/filedetails/?id=2662112628)  
 [The Edge: Downfall](https://steamcommunity.com/sharedfiles/filedetails/?id=1366507731&searchtext=the+edge+downfall)  
 [This War of Mine](https://steamcommunity.com/sharedfiles/filedetails/?id=2327911195&searchtext=this+war+of+mine)  
-[Lords of Hellas](https://steamcommunity.com/sharedfiles/filedetails/?id=962422274&searchtext=lords+of+hellas)  
+[Lords of Hellas](https://steamcommunity.com/sharedfiles/filedetails/?id=962422274&searchtext=lords+of+hellas)  [Lords of Hellas](https://steamcommunity.com/sharedfiles/filedetails/?id=962422274&searchtext=lords+of+hellas) 
