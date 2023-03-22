@@ -1,0 +1,212 @@
+Gameplay guide - S.T.A.L.K.E.R. «Flame-Zone» (Board Game)
+In this guide we will try to explain the main game mechanics (As was intended by the game's author), but you may ignore this guide as you see fit.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+To start the game in english, load the save provided in the "Saved Objects" drop box, otherwise all the scripts will be in russian
+
+In the begining of the game players get a starting kit:
+- PM
+- Magazine PM
+- 9x18 Ammo box
+- Leather jacket
+- Gas mask
+- Backpack
+- PDA (Here you put info on artifacts and store all your money *if a player kills another player – he may download this info on his PDA and take all the money*)
+- Blanket
+- Matches
+- Bolts
+- Kitchen knife
+
+200 glory points that the player may use to buy additional equipment and perks. Trader called Toad (Located in the Anteroom) has the starting equipment merchandise, but if the player according to his lore doesn't show up in Anteroom – he chooses additional equipment and perks before the start of the game.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Main game mechanics:
+1. CHARACTER PARAMETERS (SKILLS)
+2. INVENTORY
+3. GLOBAL MAP / TRAVELING
+4. RAID-ZONE / COMBAT MECHANICS
+5. ANOMALOUS FIELD:
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1. CHARACTER PARAMETERS (SKILLS):
+
+1. Strength – determines:
+- Maximum amount of «Health» points («1» point in strength gives + «1» to max health)
+- Maxumum amount of «Tiredness» («1» point in strength gives + «1» to max tiredness)
+- Maxumum amount of «Hunger» («1» point in strength gives + «1» to max hunger)
+- Chance to «Knockout» an enemy in a fight (For a knockout with the strength of «5» a player needs to roll CRITICAL SUCCESS, and with the strength of «10» – a player needs to roll «6» or higher), chance to complete certain actions that require brawn.
+
+2. Perception – is a skill that determines the «Sharp sightedness» of your character. The parameter determines, the player's roll to see or hear, what the «GM» has prepared for him. For example with regular perception («5») a player needs to roll «5» or higher (Just to know if he sees something where he is looking), but for a player with a perception of «10» - for that same action he needs to roll anything except «CRITICAL FAILURE»
+
+3. Endurance – determines:
+- Maxumum amount of «Tiredness» («2» points in endurance give + «1» to max tiredness)
+- Maxumum amount of «Deaths» («2» points in endurance give + «1» to max deaths)
+- Maxumum amount of «Energy» («1» point in endurance gives + «1» to max energy)
+- Maxumum amount of «Dehydration» («1» point in endurance gives + «1» to max dehydration)
+
+4. Agility - determines battle actions and traveling on the global map.
+When traveling on the global map agility determines:
+- speed
+- distance, which a player may cross in one turn (more info on this in GLOBAL MAP).
+When commiting battle actions agility determines:
+- Mobement on the battle field and doing certain actions (more info on this in RAID-ZONE).
+- Unjamming your weapon.
+- Acrobatic ability.
+5. Charisma – determines:
+- Success in conversations
+- Prices (the more charisma you have – the easier it is to buy/sell an item).
+6. Intelligence – determines:
+- Crafting
+- Amount of HP healed by medkits («1» intelligence point additionally gives + «1» to healing from medkits)
+- Success at certain actions that require intelligence (As the GM decides)
+7. Luck – this is a subjective skill that determines:
+- Chance of getting rarer loot from stashes.
+- Likelyhood of «CRITICAL SUCCESS».
+- Chance to meet an unfavourable foe on the global map.
+- In-game situations that happen to your player (As the GM decides).
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2. INVENTORY:
+***The player manually sorts his equipment, in a battle quick-access slots are your holster, sheath, pockets, pouches and your unloading vest, so a player is able to gey out an item without wasting a turn. If, however, the player needs to take an item out of his backpack – the player spends a turn getting that item out (example: gun mag: the player can't reload his gun if the ammo is in his backpack).
+Inside the inventory are three perk slots. Perks can be bought with glory points. A buletproof vest takes the slot of an unloading vest. (There is equipment that can not be worn together with a buletproof vest, (Everywhere, where firearms protection is 3 or higher))
+You can also find the character's status points here:
+- Health
+- Energy
+- Stress
+- Radiation
+Parameters:
+- Hunger
+- Dehydration»
+- Tiredness»
+- Deaths»
+Data:
+- Mutants killed
+- People killed
+- Artifacts found
+- Arena victories
+- Tasks completed
+- Tasks failed
+- Days in the Zone
+Inside the inventory there is the current rank of the player:
+- OUTCAST (-50 data points and lower, the GM may use this as an opporunity to let the player join the Renegades)
+- ROOKIE (-49 to 49 data points)
+- EXPERIENCED (50 to 199 data points)
+- PROFESSIONAL (200 to 299 data points)
+- VETERAN (300 to 499 data points)
+- EXPERT (500 to 1499 data points)
+- LEGEND (more than 1500 data points), the number of data points is determined by the player's activity. For example: a succesful task gives you 2 data points, and a failed one gives you -20. 
+Each promotion gives the player +1 free skill point (Everything here is scripted and works without manual imput), but if a player decides to buy additional skills – the GM needs to press 0 under skills, so that «Effects - On» text is displayed and press the «Rookie» button, then the player will get 1 free skill point.
+If «Effects - on» - GM can give additional «Green» (Positive) or «Red» (Negative) skill points to the player (For example the effects of equipment on character's skills *positive and negative*). These points are not saved on reloading the table.
+
+Status:
+1. Health – shows the character's health points, when suffering a lethal wound – the player gets +1 death.
+2. Energy – shows the character's current energy, with the energy of 0 – your character will not be able to move on the global map.
+3. Stress – a parameter that shows you how your character deals with the horrors of the zone (murder of other people, critical failures), if your stress reaches 10, flip a coin (heads – the character is able to cope and his stress is lowered to 5, tails – the player gets +1 death). Stress is lowered by alcohol, cigarettes and rest.
+4. Radiation – a parameter that shows you your radiation sickness, +1 rads gives -1 to max health.
+
+Parameters:
+1. Hunger – shows you how hungry is a character. Each day a character gains 4 points in hunger. Starvation is lethal.
+2. Dehydration – shows you how thirsty is a character. Each day a character gains 8 points in dehydration. At maximum dehydration you can not regain "Energy".
+3. Tiredness – shows you how tired is a character. Each day a character gains 6 points in tiredness. Tiredness leads to loss of conciousness at any time.
+4. Deaths – shows you how many times did a character die. When dying after a maximum amount of deaths has been reached – the character dies forever.
+
+Data: Any activity gives data points that is necessaty for promotion.
+1. People killed – gives +4|+2|+1 data points. (Depends on the character's rank)
+2. Mutants killed - gives +1-10 data points. (Depends on the mutant)
+3. Artifacts found – gives +1-3 data points. (Depends on the level of the artifact)
+4. Arena victories – gives +5|+10|+20 data points. (Depends on the character's rank)
+5. Tasks completed – gives +2 data points.
+6. Tasks failed – gives -20 data points.
+7. Days in the Zone – 1 day = 1 data point.
+
+At the bottom of the inventory you can see your reputation among traders. This reputation determines the trader's merchandise and his relationship with the player (The higher the reputation - the higher the price of selling, and the lower the price of buying). Also a player may rent storage from any trader, the higher his reputation – the higher the number of storage slots.
+To the left of the inventory you can see faction relations of the player.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+3. GLOBAL MAP / TRAVELING:
+
+On the global map the player moves according to his agility (example: agility 6 player moves 6" on the map in 2 hours, the distance is measured with the built-in TTS ruler *hold Tab*, *the size of models on the global map is 0,5*. Every turn on the global map = 2 hours of in-game time (GM has a right to make exceptions).
+Before a player makes an action, the GM creates obsticles, if the player walks through these obsticles he then makes a *LUCK roll* that determines whether or not he encountered something (be that anomalies, mutants, people etc *determined by the GM's imagination*).
+Also, the player can look around by making a *PERCEPTION roll* (for example, with standard perception *5* the player must roll 5 or higher, to see, what is happening before him in the model's radius (PERCEPTION/2 = radius) in this case it is 2.5").
+- When rolling "5+" the GM says, what the player sees within 2.5" of the model. 
+- When rolling "4-" the player doesn't see anything or his ability to see things is compromised (heavy fog, too bright etc). 
+- When rolling «CRITICAL SUCCESS» - after looking around, the GM rewards the player by revealing a stash or some other cool thing *GM's imagination*. 
+- When rolling «CRITICAL FAILURE» - the player gets into trouble and gains +1 stress (mutants attacked, met bandits, once again, GM's imagination). If the player was attacked while traveling – the GM may create a Raid-Zone (during something serious) or he may spawn mutants right on the global map (the size of all models is 0.25).
+- When traveling in a party of players/NPCs – the speed is determined by the slowest member of the group.
+- When traveling in a party of players/NPCs – the luck of the party is the average between all members (a party of three players with luck being 8, 4 and 3 accordingly the formula is *(8+4+3)/3=5*, the party's luck is 5)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+4. RAID-ZONE / COMBAT MECHANICS:
+At this point in development new locations (raid-zones) are missing (there wasn't enough time to implement them)
+
+All weapons (except for melee and explosives) have these parameters:
+- Damage – determines the damage dealt by this weapon. A torso hit deals õ2 damage, a headshot - õ5 and a hit to any limb deals õ1 damage.
+- Armour penetration – determines how much armour is ignored. If the weapon doesn't penetrate all the armour the damage is halved. If the armour doesn't have a helmet then even if the weapon doesn't penetrate it, a headshot will still deal x5 damage.
+- Accuracy – determines the accuracy of the weapon and the maximum distance of scoped fire. (since the AK-74M has an accuracy of 5 – this means that the distance of 5" and lower doesn't require a roll to hit. If the target is 10" away, the player ,ust roll 5 or higher to hit the target).
+- Handling – determines the success of unjamming your weapon. When shooting from any weapon – there is a small chance to jam it (Determined by the condition of the weapon). For example, the AK-74M has a handling of 7, with an agility of 5, the player must roll 3 or higher to unjam it.
+Successful/Unsuccessful unjamming of a weapon wastes a turn either way unless you roll CRITICAL SUCCESS, in that case you may shoot in the same turn.
+An unsuccessful unjamming lowers the weapon's condition.
+- Rate of Fire – determines how many bullets leave the gun when you fire. 
+You can also put addons on your weapons by pressing the addon buttons on the weapon.
+In combat the GM draws or places different obstacles and cover on the Raid-zone map. Movement in the Raid-zone is done the same way as movement on the global map (built-in TTS ruler). Model size inside the Raid-zone is 1.
+Any activity in the Raid-zone is determined by the GM, he also commands the NPCs.
+You can loot dead stalkers, for that you need to open the context menu (RMB) and press *Search*: in the chat window you will see the names of the items you get. That way the player only loots pockets and checks the unloading vest/ clothes. The player may also loot a dead stalker's backpack – to do that put your LUCK inside the first window of the dice randomizer and your rank inside the second window (1 rank - rookie). When looting the backpack flip a coin: heads/tails determines whether you find 5 or 2 items. This search wastes one energy.
+You can also find PDAs, to hack it you need to write your intelligence on it and then press *Hack* (You have 3 tries to hack the PDA – after the 3rd try the PDA will be blocked and you won't be able to download info/money). The GM, the host or a moderator will hack the PDA 100% of the time.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+5. ANOMALOUS FIELD:
+
+ANOMALIES:
+
+1. Gravitational anomaly «Springboard» (When landing inside this anomaly the damage is determined by your «Firearms» protection)
+If you land in a «Springboard» with an attached number (8) and your «Firearms» protection is «4» (8 - «4» = 4) you take 4 damage and get thrown back by 4 grids.
+- Bolts and a geiger counter can not be used while you are getting thrown back, if you get thrown off the field you die.
+
+2. Gravitational anomaly «Vortex» (When landing inside this anomaly the damage is determined by your «Impact» protection and how fast you escape the anomaly is determined by your «Luck»)
+If you land in a «Vortex» with an attached number (10) and your «Impact» protection is «4» (10 - «4» = 6) you take 6 damage and your «Luck» skills is equal to  «5» (10 - «5» = 5) roll a D12, if you roll 5 or higher you escape the anomaly successfully.
+- Bolts and a geiger counter can not be used while you are trying to escape the anomaly. If the D12 roll is lower than «5» you take damage again, this will happen untill you either die or escape the anomaly.
+
+3. Gravitational anomaly «Whirligig» (When landing inside this anomaly the damage is determined by your «Impact» protection)
+If you land in a «Whirligig» with an attached number (10) and your «Impact» protection is «4» (10 - «4» = 6) you take 6 damage and get thrown back by (1) grid in a random direction. (Decided by the GM)
+- Bolts and a geiger counter can not be used while you are getting thrown back, if you get thrown off the field you die.
+
+4. Thermal anomaly «Burner» (When landing inside this anomaly the damage is determined by your «Burn-protection»)
+If you land in a «Burner» with an attached number (8) and your «Burn-protection» is «5» (8 - «5» = 3) you take 3 damage this turn and 1 damage next turn.
+- Bolts and a geiger counter can not be used while you are inside the anomaly.
+
+5. Chemical anomaly «Fruit punch» (When landing inside this anomaly the damage is determined by your «Chemic-protection»)
+If you land in a «Fruit punch» with an attached number (8) and your «Chemic-protection» is «5» (8 - «5» = 3) you take 3 damage this turn and 2 damage next turn..
+- Bolts and a geiger counter can not be used while you are inside the anomaly.
+
+6. Electric anomaly «Electra» (When landing inside this anomaly the damage is determined by your «Electro-protection»)
+If you land in a «Electra» with an attached number (10) and your «Electro-protection» is «5» (10 - «5» = 5) you take 5 damage and lose 5 charges from your battery.
+- Bolts and a geiger counter can not be used while you are inside the anomaly.
+
+7. Space anomaly «Space bubble»
+If you land in a «Space bubble» the GM decides what part of the Zone do you teleport to.
+
+Artifacts:
+
+Artifacts come in different levels: «1» «2» «3» «4» «5». The type of the artifact on the anomalous field is determined by what anomaly field you are in.
+- If you pick up the artifact with your bare hands, you take damage from its positive effects. (All the numbers are summed and subtracted from the player's health)
+
+MOVEMENT:
+1. You can start your turn from any edge of the anomalous field.
+2. You can move 1 grid at a time in any direction.
+3. After you make a turn, the grid that you stood on before gets closed.
+- If you find an anomaly or radiation with Bolts and/or a Geiger counter, you may choose a different grid.
+4. To leave the anomaly field you need to walk to any edge of it.
+
+TOOLS AND MISCELLANEOUS:
+1. «Bolts»
+Spend «1» bolt each turn to not get into an anomaly. (Doesn't work with a space bubble)
+
+2. «Geiger counter»
+Spend «1» energy each turn, if a grid with radiation appears near you, you spend «2» energy
+- «Batteries» fully recharge electronics.
+
+3. «Artifact detector»
+Spends a certain amount of charges depending on the detector, is used for a safe extraction of an artifact from an anomaly.
+- Can be fully recharged by «Batteries».

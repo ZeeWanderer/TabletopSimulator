@@ -20,3 +20,4 @@ This repo contains steam workshop game references for TTS and assoiceated materi
 [The Edge: Dawnfall](https://steamcommunity.com/sharedfiles/filedetails/?id=1366507731)  
 [Slay the Spire](https://steamcommunity.com/sharedfiles/filedetails/?id=2884027954)  
 [Warhammer40K](Warhammer40K/README.md)  
+[S.T.A.L.K.E.R. «Flame-Zone»](https://steamcommunity.com/sharedfiles/filedetails/?id=2938316182)  
