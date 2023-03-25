@@ -27,6 +27,6 @@ This subdir contains info and links about `Arkham Horror` game variations
 
 [ArkhamDB](https://arkhamdb.com/)  
 
-#### Base Rules
+#### [Base Rules](the_card_game/rules/)
 // TODO  
 [Rules](the_card_game/rules/)
