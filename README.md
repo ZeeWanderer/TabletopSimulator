@@ -8,6 +8,7 @@ This repo contains steam workshop game references for TTS and assoiceated materi
 [Kittens](https://steamcommunity.com/sharedfiles/filedetails/?id=2743883145)  
 
 ## To Try
+[Arkham Horror `RUS`](https://steamcommunity.com/sharedfiles/filedetails/?id=2099658755)
 [Jumanji](https://steamcommunity.com/sharedfiles/filedetails/?id=299785586)
 [Poetry for Neanderthals](https://steamcommunity.com/sharedfiles/filedetails/?id=2421379664)  
 [Castle Wars](https://steamcommunity.com/sharedfiles/filedetails/?id=2386624320)  
