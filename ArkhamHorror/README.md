@@ -25,6 +25,8 @@ This subdir contains info and links about `Arkham Horror` game variations
 [TTS mod ENG](the_card_game/SCE_3.0.0.zip)  
 [TTS mod ENG Discord](https://discord.gg/N8wFSUqYhM)   
 
+[ArkhamDB](https://arkhamdb.com/)  
+
 #### Base Rules
 // TODO  
 [Rules](the_card_game/rules/)
